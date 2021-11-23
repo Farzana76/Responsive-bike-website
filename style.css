@@ -1,0 +1,41 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    background-color: #264653;
+}
+h1{
+    font-weight: 900;
+    font-size: 48px;
+}
+.light-clr{
+    color: #E0E0E0;
+    font-weight: 300;
+}
+.btn-bg{
+    background-color: #E76F51;
+}
+.orange-txt{
+    font-weight: 700;
+    color: #E76F51;
+}
+.grayscale img{
+    filter: grayscale(100%);
+}
+.grey-clr{
+    color: #6C6C6C;
+}
+.orange-border{
+    color: #E76F51;
+}
+.faq-text{
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+}
+.faq-font-family{
+    font-family: 'Inter', sans-serif;
+    color: #7E848C;
+}
+.subscribe{
+    background-image: url("images/subscribe.jpg");
+}
